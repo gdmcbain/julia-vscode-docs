@@ -62,7 +62,7 @@ println(msg)
 
 ## Running Hello World program
 
-To run the Hello World program, click **Run: Julia File** in Terminal play button in the top-right side of the editor.
+To run the Hello World program, click **Julia: Run File in New Process** in Terminal play button in the top-right side of the editor.
 
 ![Julia VS Code Extension](assets/hello-3.png)
 
