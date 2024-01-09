@@ -4,7 +4,7 @@ The Julia extension provides a number of different ways to run your Julia code. 
 
 ## Running a Julia file
 
-The VS Code command `Run: Start Without Debugging` (Ctrl+F5) by default starts a new Julia instance and runs the currently active Julia file. The command automatically creates a new VS Code terminal for this Julia process.
+The VS Code command `Debug: Start Without Debugging` (Ctrl+F5) by default starts a new Julia instance and runs the currently active Julia file. The command automatically creates a new VS Code terminal for this Julia process.
 
 **Note** that the Julia instance that is started by this command is entirely independent from the Julia REPL that the extension also supports.
 
